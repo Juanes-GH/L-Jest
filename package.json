@@ -1,0 +1,26 @@
+{
+  "name": "l-jest",
+  "version": "1.0.0",
+  "description": "Jest learning",
+  "main": "sum.Test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juanes-GH/L-Jest.git"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "Juanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juanes-GH/L-Jest/issues"
+  },
+  "homepage": "https://github.com/Juanes-GH/L-Jest#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
